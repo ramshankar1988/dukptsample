@@ -1,0 +1,23 @@
+{
+  "name": "dukpt",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "aes": "^0.1.0",
+    "aes256": "^1.0.2",
+    "bcrypt-nodejs": "0.0.3",
+    "big-integer": "1.6.17",
+    "crc": "^3.4.3"
+  },
+  "description": "A DUKPT Package",
+  "main": "app.js",
+  "devDependencies": {},
+  "keywords": [
+    "dukpt"
+  ],
+  "author": "demo",
+  "license": "ISC"
+}

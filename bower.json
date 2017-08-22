@@ -1,0 +1,17 @@
+{
+  "name": "dukptsample",
+  "homepage": "https://github.com/ramshankar1988/dukptsample",
+  "authors": [
+    "ramshankar <ram@olahive>"
+  ],
+  "description": "DUKPT sample",
+  "main": "index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
