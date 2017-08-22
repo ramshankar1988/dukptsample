@@ -6,7 +6,7 @@
     "ramshankar <ram@olahive>"
   ],
   "description": "DUKPT sample",
-  "main": "index.js",
+  "main": "dukptsample.js",
   "license": "MIT",
   "ignore": []
 }
