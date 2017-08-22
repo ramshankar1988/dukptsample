@@ -10,7 +10,7 @@
     var dukptsample = {
         utils: {
             pkcs7pad: pkcs7pad
-        }
+        },
     };
     // node.js
     if (typeof exports !== 'undefined') {
